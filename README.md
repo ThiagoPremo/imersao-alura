@@ -21,16 +21,6 @@ O D2DB é uma aplicação web simples e divertida para os fãs de Destiny 2 que 
 * **CSS:** Para estilizar a página e deixar ela com uma cara bem legal.
 * **JavaScript:** A mágica por trás da pesquisa e da exibição dos resultados.
 
-**Como usar este projeto:**
-
-1. **Clone o repositório:** Use o Git para clonar este repositório em sua máquina.
-2. **Abra o index.html:** Abra o arquivo `index.html` em seu navegador favorito.
-3. **Comece a pesquisar:** Divirta-se explorando a base de dados de armas!
-
-**Contribuindo:**
-
-Se você quiser contribuir para o projeto, sinta-se à vontade para criar um fork e enviar um pull request. Qualquer ajuda é bem-vinda!
-
 **Observações:**
 
 * **Dados:** Os dados das armas são armazenados no arquivo `dados.js`. Você pode adicionar ou modificar esses dados para personalizar a sua base de dados.
